@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Mithaa Menu",
+    "slug": "mobidonia",
+    "version": "3.5.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "infoPlist": {
+        "NSLocationAlwaysUsageDescription": "This app uses the location to track the order current position",
+        "NSLocationWhenInUseUsageDescription": "This app uses the location to track the order position"
+      },
+      "bundleIdentifier": "com.dimovdaniel.mobidonia",
+      "supportsTablet": false,
+      "buildNumber":"1.1"
+    },
+    "android": {
+      "package": "com.mithaa.menu"
+    },
+    "description": ""
+  }
+}

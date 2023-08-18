@@ -1,0 +1,30 @@
+{
+  "name": "react-native-expo-fancy-alerts",
+  "version": "2.1.0",
+  "description": "Inspired on nativescript-fancyalert by Nathan Walker - A simple, basic implementation of the beautiful alerts that lib brings to the table",
+  "main": "index.js",
+  "typings": "typings.d.ts",
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnkr/react-native-expo-fancy-alerts.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "react-native",
+    "alerts",
+    "dialogs",
+    "modals"
+  ],
+  "author": "Mr.NKR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnkr/react-native-expo-fancy-alerts/issues"
+  },
+  "homepage": "https://github.com/mrnkr/react-native-expo-fancy-alerts#readme"
+}
