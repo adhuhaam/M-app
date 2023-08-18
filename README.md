@@ -1,4 +1,4 @@
-##Mithaa Menu restaurant app
-*to receive real time orders 
-
-.hh
+## Mithaa Menu restaurant app
+* for ease of use
+* receive real time orders 
+![Uploading apple-touch-icon.png…]()
